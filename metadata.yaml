@@ -1,0 +1,35 @@
+_repo: Golden-Stars-in-Tatting-and-Crochet_28457
+_version: 0.1.0
+alternative_title: Étoile Dorée in Tatting
+covers:
+- cover_type: archival
+  image_path: 28457-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Riego de la Branchardière, Eléonore
+    aliases:
+    - Branchardière, Eléonore Riego de la
+    - Riego de la Branchardiere, Eleonore
+    - Riego de la Branchardière, Mlle.
+    - La Branchardière, Eléonore Riego de
+    - De la Branchardière, Eléonore Riego
+    gutenberg_agent_id: '33346'
+    url: http://www.gutenberg.org/2009/agents/33346
+description: ''
+gutenberg_bookshelf:
+- Crafts
+- Technology
+gutenberg_issued: '2009-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tatting -- Patterns'
+- !lcsh 'Crocheting -- Patterns'
+- !lcc 'TT'
+title: Golden Stars in Tatting and Crochet
+url: http://www.gutenberg.org/ebooks/28457
